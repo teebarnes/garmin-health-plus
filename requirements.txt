@@ -2,3 +2,5 @@ fastapi
 uvicorn[standard]
 httpx
 python-dotenv
+garminconnect==0.3.20
+curl_cffi
